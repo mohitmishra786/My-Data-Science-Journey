@@ -39,7 +39,7 @@ baseurl: "/mohitmishra.github.io" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter:"duKe92102424" 
+    twitter: "duKe92102424" 
     github: "mohitmishra786" 
 
 # Set this to true to get LaTeX math equation support
